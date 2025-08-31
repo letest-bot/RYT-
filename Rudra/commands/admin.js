@@ -7,7 +7,7 @@ module.exports.config = {
     name: "admin",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "ULLASH", //don't change my credit 
+    credits: "SIFAT", //don't change my credit 
     description: "Show Owner Info",
     commandCategory: "info",
     usages: "",
